@@ -4,15 +4,15 @@ title: About the seminar
 permalink: /about/
 ---
 
-**Faculty Sponsors:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/), [Daniel Moyer](https://dcmoyer.github.io/)
+**Seminar Organizers:**[TBD]()
 
-**Seminar Hosts:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
+**Seminar Hosts:** [TBD]()
 
-**Student Directors:** [Huy Tran](#), [Yuying Zhao](https://yuyingzhao.github.io/)
+**Student Directors:** [TBD]
 
 
 
-You may reach us at soheil [dot] kolouri [at] vanderbilt [dot] edu.
+You may reach us at yu [dot] wang [dot] 1 [at] vanderbilt [dot] edu.
 
 ### Acknowledgements
 
