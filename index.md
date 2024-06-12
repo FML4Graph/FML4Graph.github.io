@@ -92,7 +92,5 @@ meta-description: "Seminar series on the frontier of machine learning. Open to p
 </div>
 {% endfor %}
 
-/// Older talks can be found in Archives.
-
 
 
