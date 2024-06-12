@@ -8,7 +8,7 @@ permalink: /about/
 
 **Seminar Hosts:** [TBD]()
 
-**Student Directors:** [TBD]
+**Student Directors:** [TBD]()
 
 
 
