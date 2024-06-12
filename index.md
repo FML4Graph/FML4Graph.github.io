@@ -1,7 +1,7 @@
 ---
-title: Vanderbilt Machine Learning Seminar Series
+title: Graph Machine Learning Seminar Series
 layout: default
-meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
+meta-description: "Seminar series on the frontier of machine learning. Open to public every XXX x:xx-x:xx pm. Recordings are available to the public. "
 ---
 
 <!-- <img src="/images/f2023i.png" width="100%" style="border-radius:10px"> -->
@@ -12,10 +12,9 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 
 
 <div class="announcement-group" markdown="1">
-<!--    * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page. -->
    * Our talks are open to the public. No registration is required.
-   * Our virtual (Zoom) talks are on Mondays at 12:20 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
-   * Join our [Google group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. 
+   * Our virtual (Zoom) talks are on xx at xx:xx PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
+   * Join our [Google group](xxxx) for discussions and notifications of upcoming talks. 
 <!--    * Visit this site at the scheduled time to attend. If you are not affiliated with Vanderbilt, request your access [here](https://forms.gle/zijM9mau411Sx5M78). -->
 </div>
 
