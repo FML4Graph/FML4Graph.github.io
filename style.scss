@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: #42b600;
+  color: #DFAC11;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #42b600;
+    color: #DFAC11;
   }
 }
 
@@ -474,7 +474,7 @@ details > summary {
 //Button
 .button1 {
   appearance: none;
-  background-color: $vandygold;
+  background-color: #DFAC11;
   border: 1px solid #BF9000;
   border-radius: 10px;
   box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
@@ -502,7 +502,7 @@ details > summary {
 }
 
 .button1:hover {
-  background-color: #4761ff;
+  background-color: $vandygold;
 }
 
 .button1:focus {
